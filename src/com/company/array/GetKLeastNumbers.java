@@ -18,6 +18,7 @@ public class GetKLeastNumbers {
         for (Integer i:a){
             System.out.print(i+" ");
         }
+
     }
 
     //冒泡排序第K次跳出
